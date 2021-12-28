@@ -1,8 +1,8 @@
 ## Olá seja bem vindo, eu sou o <strong>Romulo Perona!</strong>
 
-- Fui de office boy a gestor de relacionamentos, agora busco ser um desenvolvedor web, essa é minha tragetoria!
+- Fui de office boy a gestor de relacionamentos, agora busco ser um desenvolvedor web, essa é minha tragetória!
 - Tenho conhecimento em <strong>HTML, CSS, JS, NODEJS</strong>. Cursando uma trilha FullStack.
-- Fui gestor de relacionamento durante 3 anos dos meus 8 na VN & Peronsa Assessoria Contabil e agora busco agregar meus conhecimentos na area de tecnologia. 
+- Fui gestor de relacionamento durante 3 anos dos meus 8 na VN & Peronsa Assessoria Contabil e agora busco agregar meus conhecimentos na área de tecnologia. 
 
 ## Contato
 
